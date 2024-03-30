@@ -17,7 +17,7 @@ with col2:
             "I am a passionate Python developer "\
             "with two years of professional experience, "\
             "having graduated from Mapua University "\
-            "with a solid foundation in computer science. "\
+            "with a solid foundation in computer engineering. "\
             "My journey in the realm of software development "\
             "has been marked by an insatiable curiosity and "\
             "a commitment to delivering high-quality solutions. ")
